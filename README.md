@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdityaAnant
-- 👀 I’m interested in Women
-- 🌱 I’m currently learning Python and Machine Learning
+- 🌱 I’m currently learning Python and AWS
 - 💞️ I’m looking to collaborate on with one of the best MNC's
 - 📫 How to reach me or call me on 6206119776
 
